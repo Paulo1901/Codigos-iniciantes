@@ -1,2 +1,2 @@
-# Codigos iniciantes
- Comandos iniciais do curso GitHub
+# Códigos fontes iniciantes
+ Comandos iniciais do curso GitHub.
