@@ -4,3 +4,4 @@
 Estou contruindo minha fundação na area da programação
 um passo de cada vez.
 
+Desistir não é uma opção!
