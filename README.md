@@ -1,7 +1,7 @@
 # Códigos fontes iniciantes
- Comandos iniciais do curso GitHub.
+ Comandos iniciais do curso **GitHub.**
 
 Estou contruindo minha fundação na area da programação
 um passo de cada vez.
 
-Desistir não é uma opção!
+Desistir não é uma *opção*!
